@@ -3,7 +3,7 @@
 <h4 align='center'>French Web Developer</h4>
 
 <p align='center'>
-    <a href="/files/CV_BRYAN_LEGRAIN_DEVELOPPEUR_WEB.pdf">
+    <a href="/files/CV_BRYAN_LEGRAIN_DEVELOPPEUR_.NET.pdf">
         <img height="28" src="https://img.shields.io/badge/MY-RESUME-gold">
     </a>
     <a href="https://brylegrain.netlify.app/">
